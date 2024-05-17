@@ -1,5 +1,6 @@
 # ML_practice
 
+
 Репозиторий для сдачи практических заданий курса "Автоматизация администрирования MLOps"
 
 [1 задание](https://github.com/KateProxa/ML_practice/tree/main/Task1)\
